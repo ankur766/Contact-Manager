@@ -9,7 +9,7 @@
 **Installation and Setup**
 > Clone the repository:
 > 
-         git clone <repository-url>
+         git clone <https://github.com/ankur766/Contact-Manager.git>
          
 > Install dependencies:
 
@@ -47,4 +47,6 @@
 > **package.json:** Contains project dependencies and scripts.
 
 **Flow  Diagram:**
->  
+> <img width="529" alt="image" src="https://github.com/ankur766/Contact-Manager/assets/106395652/137376fd-4a2a-4efa-8309-299ec81d3dd8">
+
+
