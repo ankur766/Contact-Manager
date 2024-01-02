@@ -1,0 +1,126 @@
+{
+    "contacts":
+        [
+            {
+              "id": 1,
+              "fname": "John",
+              "lname": "Doe",
+              "email": "john@example.com"
+            },
+            {
+              "id": 2,
+              "fname": "Alice",
+              "lname": "Smith",
+              "email": "alice@example.com"
+            },
+            {
+              "id": 3,
+              "fname": "Bob",
+              "lname": "Johnson",
+              "email": "bob@example.com"
+            },
+            {
+              "id": 4,
+              "fname": "Emily",
+              "lname": "Davis",
+              "email": "emily@example.com"
+            },
+            {
+              "id": 5,
+              "fname": "Michael",
+              "lname": "Wilson",
+              "email": "michael@example.com"
+            },
+            {
+              "id": 6,
+              "fname": "Sophia",
+              "lname": "Miller",
+              "email": "sophia@example.com"
+            },
+            {
+              "id": 7,
+              "fname": "William",
+              "lname": "Brown",
+              "email": "william@example.com"
+            },
+            {
+              "id": 8,
+              "fname": "Olivia",
+              "lname": "Garcia",
+              "email": "olivia@example.com"
+            },
+            {
+              "id": 9,
+              "fname": "James",
+              "lname": "Jones",
+              "email": "james@example.com"
+            },
+            {
+              "id": 10,
+              "fname": "Emma",
+              "lname": "Martinez",
+              "email": "emma@example.com"
+            },
+            {
+              "id": 11,
+              "fname": "Daniel",
+              "lname": "Hernandez",
+              "email": "daniel@example.com"
+            },
+            {
+              "id": 12,
+              "fname": "Isabella",
+              "lname": "Young",
+              "email": "isabella@example.com"
+            },
+            {
+              "id": 13,
+              "fname": "Liam",
+              "lname": "Lee",
+              "email": "liam@example.com"
+            },
+            {
+              "id": 14,
+              "fname": "Ava",
+              "lname": "White",
+              "email": "ava@example.com"
+            },
+            {
+              "id": 15,
+              "fname": "Mason",
+              "lname": "Clark",
+              "email": "mason@example.com"
+            },
+            {
+              "id": 16,
+              "fname": "Charlotte",
+              "lname": "Hall",
+              "email": "charlotte@example.com"
+            },
+            {
+              "id": 17,
+              "fname": "Ethan",
+              "lname": "Lopez",
+              "email": "ethan@example.com"
+            },
+            {
+              "id": 18,
+              "fname": "Amelia",
+              "lname": "Adams",
+              "email": "amelia@example.com"
+            },
+            {
+              "id": 19,
+              "fname": "Harper",
+              "lname": "Wright",
+              "email": "harper@example.com"
+            },
+            {
+              "id": 20,
+              "fname": "Benjamin",
+              "lname": "King",
+              "email": "benjamin@example.com"
+            }
+          ]
+          
+}
